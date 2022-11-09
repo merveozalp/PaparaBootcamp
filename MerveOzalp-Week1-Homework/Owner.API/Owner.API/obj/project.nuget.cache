@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYqwYGTmuH/eDyWKdhpbKrMsjNfZsLRug88gusTHN9oEMIUa0NijjMdp3J/Rbr9IbwXBWvw6a4whgxSuykurpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merve\\Source\\Repos\\MerveOzalp-Week1-Homework\\Owner.API\\Owner.API\\Owner.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merve\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\merve\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\merve\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\merve\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\merve\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\merve\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
